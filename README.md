@@ -1,3 +1,8 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+[![Stargazers][stars-shield]][stars-url]
+[![GitHub Watchers][github-watchers]][github-watchers-url]
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
 # Fit With Friends
@@ -99,9 +104,9 @@ Open to any and all contributions!
 
 # Screenshots
 ![](/public/images/Screenshot.PNG)
-</br>
+</br></br>
 ![](/public/images/Screenshot3.PNG)
-</br>
+</br></br>
 ![](/public/images/Screenshot4.PNG)
 
 # License
@@ -112,3 +117,23 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/AuraFly/Fit_With_Friends.svg?style=for-the-badge
+[contributors-url]: https://github.com/AuraFly/Fit_With_Friends/graphs/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/AuraFly/Fit_With_Friends.svg?style=for-the-badge
+[forks-url]: https://github.com/AuraFly/Fit_With_Friends/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/AuraFly/Fit_With_Friends?style=social
+[stars-url]: https://github.com/AuraFly/Fit_With_Friends/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/AuraFly/Fit_With_Friends.svg?style=for-the-badge
+[issues-url]: https://github.com/AuraFly/Fit_With_Friends/issues
+
+[github-watchers]: https://img.shields.io/github/watchers/AuraFly/Fit_With_Friends?style=social
+[github-watchers-url]: https://github.com/AuraFly/Fit_With_Friends/watchers
