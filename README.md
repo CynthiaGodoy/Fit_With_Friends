@@ -15,6 +15,16 @@ Fitness with Friends, is a Full-Stack application designed and built using the *
 
 [GITHUB with Original Commits](https://github.com/AuraFly/Fit_With_Friends.git)
 
+## Login Password:
+User: 
+```
+cynthia@something.com
+```
+Password:
+```
+pasword12345
+```
+
 ## Team Members
 Project 2 - Team 8
 - Cynthia Godoy
